@@ -6,7 +6,7 @@
      android:layout_height="match_parent"
      android:fillViewport="true"
      android:background="@drawable/helpimagebackground"
-     tools:context=".AboutUs">
+     >
 
 
      <LinearLayout

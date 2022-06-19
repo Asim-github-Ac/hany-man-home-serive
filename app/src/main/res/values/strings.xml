@@ -1,5 +1,5 @@
 <resources>
-     <string name="app_name">Shram</string>
+     <string name="app_name">Home Services</string>
      <array name="menuOptions">
 	  <item>Home</item>
 	  <item>Profile</item>
