@@ -50,7 +50,7 @@
 		    android:drawablePadding="12dp"
 		    android:ems="10"
 		    android:inputType="number"
-		    android:hint="Aadhar Card Number"
+		    android:hint="Cnic Card"
 		    android:maxLines="1"
 		    android:padding="8dp" />
 
@@ -240,7 +240,7 @@
 			 android:background="@android:color/transparent"
 			 android:drawablePadding="12dp"
 			 android:padding="8dp"
-			 android:text="+91-"
+			 android:text="+92-"
 			 android:textSize="18dp" />
 
 		    <EditText
@@ -271,7 +271,7 @@
 			 android:background="@android:color/transparent"
 			 android:drawablePadding="12dp"
 			 android:padding="8dp"
-			 android:text="+91-"
+			 android:text="+92-"
 			 android:textSize="18dp" />
 
 		    <EditText

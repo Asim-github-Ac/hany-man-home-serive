@@ -24,15 +24,16 @@
 	       android:scaleType="fitCenter"
 	       android:src="@drawable/worker"
 	       android:transitionName="trans1" />
-	  <TextView
-	       android:layout_width="wrap_content"
-	       android:layout_height="wrap_content"
-	       android:layout_below="@id/imgView_logo"
-	       android:id="@+id/app_name"
-	       android:text="Shram"
-	       android:fontFamily="@font/castro"
-	       android:textSize="30dp"
-	       android:textColor="@color/blck"/>
+
+		 <TextView
+			 android:id="@+id/app_name"
+			 android:layout_width="wrap_content"
+			 android:layout_height="wrap_content"
+			 android:layout_below="@id/imgView_logo"
+			 android:fontFamily="@font/castro"
+			 android:text="Home Services"
+			 android:textColor="@color/blck"
+			 android:textSize="30dp" />
 
 	  <RelativeLayout
 	       android:id="@+id/relative_login"
