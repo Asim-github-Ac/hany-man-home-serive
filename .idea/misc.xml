@@ -6,7 +6,7 @@
         <entry key="..\:/Qasim riphah home service/Shram-master/app/src/main/res/layout/activity_about_us.xml" value="0.22" />
         <entry key="..\:/Qasim riphah home service/Shram-master/app/src/main/res/layout/activity_available_workers.xml" value="0.121875" />
         <entry key="..\:/Qasim riphah home service/Shram-master/app/src/main/res/layout/activity_edit_recruiter.xml" value="0.121875" />
-        <entry key="..\:/Qasim riphah home service/Shram-master/app/src/main/res/layout/activity_edit_seeker.xml" value="0.121875" />
+        <entry key="..\:/Qasim riphah home service/Shram-master/app/src/main/res/layout/activity_edit_seeker.xml" value="0.25" />
         <entry key="..\:/Qasim riphah home service/Shram-master/app/src/main/res/layout/activity_forgot_password_module.xml" value="0.121875" />
         <entry key="..\:/Qasim riphah home service/Shram-master/app/src/main/res/layout/activity_get_location.xml" value="0.121875" />
         <entry key="..\:/Qasim riphah home service/Shram-master/app/src/main/res/layout/activity_main.xml" value="0.121875" />
@@ -14,10 +14,10 @@
         <entry key="..\:/Qasim riphah home service/Shram-master/app/src/main/res/layout/activity_photo.xml" value="0.121875" />
         <entry key="..\:/Qasim riphah home service/Shram-master/app/src/main/res/layout/activity_photo_upload.xml" value="0.121875" />
         <entry key="..\:/Qasim riphah home service/Shram-master/app/src/main/res/layout/activity_recruiter_main.xml" value="0.121875" />
-        <entry key="..\:/Qasim riphah home service/Shram-master/app/src/main/res/layout/activity_recruiter_profile.xml" value="0.121875" />
+        <entry key="..\:/Qasim riphah home service/Shram-master/app/src/main/res/layout/activity_recruiter_profile.xml" value="0.25" />
         <entry key="..\:/Qasim riphah home service/Shram-master/app/src/main/res/layout/activity_reviewdailog.xml" value="0.121875" />
         <entry key="..\:/Qasim riphah home service/Shram-master/app/src/main/res/layout/activity_seeker_main.xml" value="0.121875" />
-        <entry key="..\:/Qasim riphah home service/Shram-master/app/src/main/res/layout/activity_seeker_profile.xml" value="0.121875" />
+        <entry key="..\:/Qasim riphah home service/Shram-master/app/src/main/res/layout/activity_seeker_profile.xml" value="0.25" />
         <entry key="..\:/Qasim riphah home service/Shram-master/app/src/main/res/layout/activity_show__available_worker__profile.xml" value="0.121875" />
         <entry key="..\:/Qasim riphah home service/Shram-master/app/src/main/res/layout/activity_show_comments.xml" value="0.121875" />
         <entry key="..\:/Qasim riphah home service/Shram-master/app/src/main/res/layout/activity_signup.xml" value="0.22" />
@@ -26,9 +26,9 @@
         <entry key="..\:/Qasim riphah home service/Shram-master/app/src/main/res/layout/item_divider.xml" value="0.121875" />
         <entry key="..\:/Qasim riphah home service/Shram-master/app/src/main/res/layout/my_layout.xml" value="0.22" />
         <entry key="..\:/Qasim riphah home service/Shram-master/app/src/main/res/layout/recruiter_profile_data_edit.xml" value="0.121875" />
-        <entry key="..\:/Qasim riphah home service/Shram-master/app/src/main/res/layout/recruiter_profile_data_view.xml" value="0.121875" />
-        <entry key="..\:/Qasim riphah home service/Shram-master/app/src/main/res/layout/seeker_profile_data_edit.xml" value="0.121875" />
-        <entry key="..\:/Qasim riphah home service/Shram-master/app/src/main/res/layout/seeker_profile_data_view.xml" value="0.121875" />
+        <entry key="..\:/Qasim riphah home service/Shram-master/app/src/main/res/layout/recruiter_profile_data_view.xml" value="0.25" />
+        <entry key="..\:/Qasim riphah home service/Shram-master/app/src/main/res/layout/seeker_profile_data_edit.xml" value="0.5" />
+        <entry key="..\:/Qasim riphah home service/Shram-master/app/src/main/res/layout/seeker_profile_data_view.xml" value="0.18" />
         <entry key="..\:/Sdkpath/caches/transforms-3/56f03012de6ed6ca2af414d3ff1ff41a/transformed/jetified-duo-navigation-drawer-2.0.8/res/layout/duo_view_footer.xml" value="0.121875" />
       </map>
     </option>

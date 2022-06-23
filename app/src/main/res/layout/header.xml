@@ -32,7 +32,7 @@
 	  android:id="@+id/header_name"
 	  android:layout_marginTop="75dp"
 	  android:fontFamily="@font/castro"
-	  android:text="Vishnu Sai Nath Karumuri"
+	  android:text="Qasim and Salman"
 	  android:textColor="@color/white"
 	  android:textSize="15dp" />
      <TextView
